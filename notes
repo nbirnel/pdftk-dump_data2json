@@ -1,0 +1,19 @@
+InfoKey: {Key}
+InfoValue: {Value}
+  date value D:yyyymmddHHMMss-offset?
+  InfoValue: D:20140310113538-07'00'
+PdfID0: 32digit  hex?
+PdfID1: 32digit  hex?
+NumberOfPages: {int}
+BookmarkTitle: {string}
+BookmarkLevel: 1-base int
+BookmarkPageNumber: 1-base int?
+
+freeform parsing - 
+  InfoKey then next line is InfoValue
+  BookmarkTitle -> BookmarkLevel -> BookmarkPageNumber
+  Bookmark* ?
+  NumberOfPages  should be unique?
+  BookmarkPageNumber must be int, or is roman allowed?
+
+

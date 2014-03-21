@@ -1,0 +1,245 @@
+InfoKey: Creator
+InfoValue: ExperVision 
+InfoKey: Producer
+InfoValue: GPL Ghostscript 9.10
+InfoKey: ModDate
+InfoValue: D:20140310113538-07'00'
+InfoKey: CreationDate
+InfoValue: D:20140310113538-07'00'
+PdfID0: 24311bc3adc0c856ea8a6aa6707fbaab
+PdfID1: 24311bc3adc0c856ea8a6aa6707fbaab
+NumberOfPages: 1062
+BookmarkTitle: Cover
+BookmarkLevel: 1
+BookmarkPageNumber: 1
+BookmarkTitle: Record of Proceedings
+BookmarkLevel: 1
+BookmarkPageNumber: 2
+BookmarkTitle: Distribution List
+BookmarkLevel: 1
+BookmarkPageNumber: 7
+BookmarkTitle: Certificate for Transcript
+BookmarkLevel: 1
+BookmarkPageNumber: 10
+BookmarkTitle: 1.1 Certificate regarding Organizational Documents
+BookmarkLevel: 1
+BookmarkPageNumber: 11
+BookmarkTitle: 1.2 Certificate of Incumbency of the Commission
+BookmarkLevel: 1
+BookmarkPageNumber: 12
+BookmarkTitle: 2.1 Financing Agreement
+BookmarkLevel: 1
+BookmarkPageNumber: 16
+BookmarkTitle: 2.2 Regulatory Agreement
+BookmarkLevel: 1
+BookmarkPageNumber: 79
+BookmarkTitle: 2.3 Regulatory Agreement (Extended Use Agreement)
+BookmarkLevel: 1
+BookmarkPageNumber: 98
+BookmarkTitle: 2.4 No Arbitrage Certificate
+BookmarkLevel: 1
+BookmarkPageNumber: 156
+BookmarkTitle: 2.5 Certificate Regarding Use of Proceeds
+BookmarkLevel: 1
+BookmarkPageNumber: 167
+BookmarkTitle: 2.6 Promissory Note
+BookmarkLevel: 1
+BookmarkPageNumber: 176
+BookmarkTitle: 2.7 Construction Loan Agreement
+BookmarkLevel: 1
+BookmarkPageNumber: 180
+BookmarkTitle: 2.8 Deed of Trust, Assignment of Leases and Rents, Security Agreement and Fixture Filing
+BookmarkLevel: 1
+BookmarkPageNumber: 202
+BookmarkTitle: 2.9 Hazardous Waste Warranty and Indemnification Agreement
+BookmarkLevel: 1
+BookmarkPageNumber: 221
+BookmarkTitle: 2.10 Commercial Guaranty
+BookmarkLevel: 1
+BookmarkPageNumber: 228
+BookmarkTitle: 2.11 Commercial Pledge and Security Agreement (Deposit Account)
+BookmarkLevel: 1
+BookmarkPageNumber: 234
+BookmarkTitle: 2.12 Assignment of Rights Under Management Agreement (and Subordination by Property Manager)
+BookmarkLevel: 1
+BookmarkPageNumber: 241
+BookmarkTitle: 2.13 Assignment of Construction Contract and Permits
+BookmarkLevel: 1
+BookmarkPageNumber: 246
+BookmarkTitle: 2.14 Assignment of Architect's Contract
+BookmarkLevel: 1
+BookmarkPageNumber: 248
+BookmarkTitle: 2.15 Certificate of General Partner
+BookmarkLevel: 1
+BookmarkPageNumber: 250
+BookmarkTitle: 2.16 Priority Agreement
+BookmarkLevel: 1
+BookmarkPageNumber: 252
+BookmarkTitle: 2.17 Recording/Escrow Instructions
+BookmarkLevel: 1
+BookmarkPageNumber: 274
+BookmarkTitle: 2.18 UCC-1 Financing Statement
+BookmarkLevel: 1
+BookmarkPageNumber: 293
+BookmarkTitle: 2.19 Assignments of Deed of Trust and Loan Documents
+BookmarkLevel: 1
+BookmarkPageNumber: 312
+BookmarkTitle: 2.20 Specimen Bond
+BookmarkLevel: 1
+BookmarkPageNumber: 325
+BookmarkTitle: 2.21 Disbursement Agreement
+BookmarkLevel: 1
+BookmarkPageNumber: 328
+BookmarkTitle: 2.22 Funding Requisition
+BookmarkLevel: 1
+BookmarkPageNumber: 356
+BookmarkTitle: 2.23 Title Policy
+BookmarkLevel: 1
+BookmarkPageNumber: 367
+BookmarkTitle: 3.1 Official Intent Declaration No. 12-108A of the Commission
+BookmarkLevel: 1
+BookmarkPageNumber: 387
+BookmarkTitle: 3.2 Certificate regarding Resolution No. 95-82 of the Commission
+BookmarkLevel: 1
+BookmarkPageNumber: 390
+BookmarkTitle: 3.3 Certificate regarding publication of Notice of Public Hearing
+BookmarkLevel: 1
+BookmarkPageNumber: 391
+BookmarkTitle: 3.4 Minutes of the Public Hearing
+BookmarkLevel: 1
+BookmarkPageNumber: 411
+BookmarkTitle: 3.5 Governor's Approval
+BookmarkLevel: 1
+BookmarkPageNumber: 413
+BookmarkTitle: 3.6 Resolution No. 13-98 of the Commission
+BookmarkLevel: 1
+BookmarkPageNumber: 417
+BookmarkTitle: 3.7 Minutes of the September 26, 2013 meeting of the Commission
+BookmarkLevel: 1
+BookmarkPageNumber: 427
+BookmarkTitle: 3.8 Notice of Special Meeting and Affidavit of Mailing
+BookmarkLevel: 1
+BookmarkPageNumber: 435
+BookmarkTitle: 3.9 Copy of letter pursuant to Section 15(5) of the Act and Response
+BookmarkLevel: 1
+BookmarkPageNumber: 456
+BookmarkTitle: 3.10 Notice to Department of Commerce regarding use of volume cap
+BookmarkLevel: 1
+BookmarkPageNumber: 458
+BookmarkTitle: 3.11 Project Description
+BookmarkLevel: 1
+BookmarkPageNumber: 459
+BookmarkTitle: 4.1 Bond Purchase Offer
+BookmarkLevel: 1
+BookmarkPageNumber: 460
+BookmarkTitle: 4.2 Certificate of Purchaser at Private Sale
+BookmarkLevel: 1
+BookmarkPageNumber: 461
+BookmarkTitle: 4.3 Bank's Wire Instructions
+BookmarkLevel: 1
+BookmarkPageNumber: 463
+BookmarkTitle: 5.1 General Certificate of Borrower
+BookmarkLevel: 1
+BookmarkPageNumber: 465
+BookmarkTitle: 5.2 Certificate of Incumbency and Borrower Representative; Signature Identification Certificate
+BookmarkLevel: 1
+BookmarkPageNumber: 708
+BookmarkTitle: 5.3 Borrower's ACH Authorization
+BookmarkLevel: 1
+BookmarkPageNumber: 710
+BookmarkTitle: 6.1 Closing Memorandum
+BookmarkLevel: 1
+BookmarkPageNumber: 712
+BookmarkTitle: 6.2 General Certificate of Commission
+BookmarkLevel: 1
+BookmarkPageNumber: 720
+BookmarkTitle: 6.3 IRS Form 8038 and Affidavit of Mailing
+BookmarkLevel: 1
+BookmarkPageNumber: 722
+BookmarkTitle: 6.4 State Bond Reporting Form
+BookmarkLevel: 1
+BookmarkPageNumber: 731
+BookmarkTitle: 6.5 Certificate of Commission Regarding Outstanding Bonds
+BookmarkLevel: 1
+BookmarkPageNumber: 734
+BookmarkTitle: 6.6 Certificate Regarding Volume Cap Allocation
+BookmarkLevel: 1
+BookmarkPageNumber: 743
+BookmarkTitle: 6.7 Certificate of Delivery
+BookmarkLevel: 1
+BookmarkPageNumber: 745
+BookmarkTitle: 6.8 Certificate Regarding Fees and Costs
+BookmarkLevel: 1
+BookmarkPageNumber: 746
+BookmarkTitle: 6.9 Certificate Regarding Loan
+BookmarkLevel: 1
+BookmarkPageNumber: 748
+BookmarkTitle: 7.1 Opinions of counsel to the Borrower
+BookmarkLevel: 1
+BookmarkPageNumber: 749
+BookmarkTitle: 7.2 Supplemental Opinion of Bond Counsel
+BookmarkLevel: 1
+BookmarkPageNumber: 760
+BookmarkTitle: 7.3 Final Approving Legal Opinion of Bond Counsel
+BookmarkLevel: 1
+BookmarkPageNumber: 765
+BookmarkTitle: 8.1 AHP Subsidy Loan Agreement (AHP)
+BookmarkLevel: 1
+BookmarkPageNumber: 769
+BookmarkTitle: 8.2 Promissory Note (AHP)
+BookmarkLevel: 1
+BookmarkPageNumber: 804
+BookmarkTitle: 8.3 Deed of Trust (AHP)
+BookmarkLevel: 1
+BookmarkPageNumber: 813
+BookmarkTitle: 8.4 Assignment of Deed of Trust and Promissory Note (AHP)
+BookmarkLevel: 1
+BookmarkPageNumber: 830
+BookmarkTitle: 9.1 Loan Agreement (City of Seattle)
+BookmarkLevel: 1
+BookmarkPageNumber: 834
+BookmarkTitle: 9.2 Promissory Note (City of Seattle)
+BookmarkLevel: 1
+BookmarkPageNumber: 897
+BookmarkTitle: 9.3 Deed of Trust, Assignment of Rents, Security Agreement (City of Seattle)
+BookmarkLevel: 1
+BookmarkPageNumber: 903
+BookmarkTitle: 9.4 Regulatory Agreement (City of Seattle)
+BookmarkLevel: 1
+BookmarkPageNumber: 931
+BookmarkTitle: 9.5 Certificate and Indemnity Agreement Regarding Hazardous Substances and Building Laws (City of Seattle)
+BookmarkLevel: 1
+BookmarkPageNumber: 960
+BookmarkTitle: 10.1 Capital Advance Agreement (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 970
+BookmarkTitle: 10.2 Regulatory Agreement (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 980
+BookmarkTitle: 10.3 Capital Advance Finance Program Mixed Use Agreement (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 993
+BookmarkTitle: 10.4 Promissory Note (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 999
+BookmarkTitle: 10.5 Capital Advance Mortgage (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 1001
+BookmarkTitle: 10.6 Loan Agreement (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 1010
+BookmarkTitle: 10.7 Security Agreement (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 1023
+BookmarkTitle: 10.8 UCC Fixture Financing Statement; UCC Financing Statement Amendment (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 1032
+BookmarkTitle: 10.9 Assignment of Loan Agreement, Note, Mortgage, Security Agreement, and UCCs (HUD 202 Program)
+BookmarkLevel: 1
+BookmarkPageNumber: 1044
+BookmarkTitle: 11.1 Promissory Note (Sponsor Loan)
+BookmarkLevel: 1
+BookmarkPageNumber: 1050
+BookmarkTitle: 11.2 Deed of Trust (Sponsor Loan)
+BookmarkLevel: 1
+BookmarkPageNumber: 1055
